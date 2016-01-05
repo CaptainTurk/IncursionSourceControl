@@ -13,7 +13,7 @@ public class MainMenuWithSave : MonoBehaviour {
 		//Application.LoadLevel (IncursionFirstLevel);
 	}
 	
-	// Update is called once per frame
+	// Load level 1
 	void Load() 
 	{
 		GameControl.control.Load ();
